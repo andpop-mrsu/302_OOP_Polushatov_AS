@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\TruncaterTest::testTruncate":8,"App\\Tests\\PaymentAdapterTest::testCollectMoney":8},"times":{"Tests\\TruncaterTest::testTruncate":0.007,"App\\Tests\\PaymentAdapterTest::testCollectMoney":0.017}}
